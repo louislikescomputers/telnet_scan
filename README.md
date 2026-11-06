@@ -26,6 +26,10 @@ Unauthorized use against systems you do not own or have explicit permission to t
 - **Verbose debugging** – Set `TELNET_SCAN_VERBOSE=1` to see every IAC packet and step-by-step exploit narrative
 - **Docker lab environment** – Self-contained vulnerable target for safe testing
 
+## Newer Features in this fork
+
+- **Mass target scanning of all public ipv4 ranges** – Scan all public ipv4 range in order and output to a txt file in line by line format 
+
 ## Installation
 
 ```bash
