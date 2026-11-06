@@ -2,7 +2,7 @@
 
 [![License:ek0ms](https://img.shields.io/badge/ek0ms-savi0r-yellow.svg)](https://github.com/ekomsSavior)
 
-A Python-based security assessment tool that detects and (where applicable) exploits two critical vulnerabilities in GNU InetUtils telnetd:
+A Python-based security assessment tool that detects and (where applicable) exploits two critical vulnerabilities in GNU InetUtils telnetd (with updated features from louislikescomputers):
 
 - **CVE-2026-24061** – Authentication bypass via `USER` environment variable injection (CVSS 9.8)
 - **CVE-2026-32746** – Pre-authentication buffer overflow in LINEMODE SLC handler (CVSS 9.8)
