@@ -1,7 +1,6 @@
 # Telnet Vulnerability Scanner (CVE-2026-24061 & CVE-2026-32746)
 
 [![License:ek0ms](https://img.shields.io/badge/ek0ms-savi0r-yellow.svg)](https://github.com/ekomsSavior)
-![Static Badge](https://img.shields.io/badge/Louislikescomputers?style=social)
 
 
 A Python-based security assessment tool that detects and (where applicable) exploits two critical vulnerabilities in GNU InetUtils telnetd (with updated features from louislikescomputers):
